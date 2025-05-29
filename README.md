@@ -334,7 +334,7 @@ http://localhost:8080/EmployeeSalaryManagementApp/
 *Salary component configuration interface*
 
 ### Reports Dashboard
-![Reports Dashboard](screenshots/reports.png)
+![Reports Dashboard](screenshots/report.png)
 *Comprehensive salary and payroll analytics*
 
 
