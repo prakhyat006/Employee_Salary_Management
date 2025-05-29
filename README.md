@@ -319,36 +319,24 @@ http://localhost:8080/EmployeeSalaryManagementApp/
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/index.png)
 *Main dashboard showing payroll overview and quick access to all modules*
 
 ### Employee Management
-![Employee Registration](screenshots/employee_registration.png)
+![Employee Registration](screenshots/add.png)
 *Employee registration form with comprehensive details*
 
-![Employee List](screenshots/employee_list.png)
+![Employee List](screenshots/list.png)
 *Complete employee directory with search and filter options*
 
 ### Salary Structure
-![Salary Structure](screenshots/salary_structure.png)
+![Update_Salary Structure](screenshots/update.png)
 *Salary component configuration interface*
 
-![Salary Calculator](screenshots/salary_calculator.png)
-*Automated salary calculation with real-time updates*
-
-### Payroll Processing
-![Payroll Generation](screenshots/payroll_generation.png)
-*Monthly payroll generation interface*
-
-![Salary Slip](screenshots/salary_slip.png)
-*Professional salary slip format*
-
 ### Reports Dashboard
-![Reports Dashboard](screenshots/reports_dashboard.png)
+![Reports Dashboard](screenshots/reports.png)
 *Comprehensive salary and payroll analytics*
 
-![Salary Report](screenshots/salary_report.png)
-*Detailed salary analysis and comparison reports*
 
 ## 🔧 Configuration
 
